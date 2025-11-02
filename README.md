@@ -1,4 +1,4 @@
-## Hi there, I'm Outragedline
+## Hi there, I'm Janson Degarti 
 
 ### 💻 Computer Science Student and enthusiast
 <!--
@@ -11,14 +11,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on some private projects in rust 🦀
-- 🌱 I’m currently focused on learning the foundations of math and computer science
-- 💬 Ask me about linux 🐧
+- 🔭 I’m currently working on some cool rust projects 🦀
+- 🌱 I’m currently focused on learning math, computer science, german and italian
+- 💬 Ask me about anything rusty or linux related 🐧
 - 📫 How to reach me:
-  - [Telegram](https://t.me/outragedline)
+  - [Telegram](https://t.me/degarti)
   - [Twitter](https://x.com/outragedline)
-  - [linkedin](https://www.linkedin.com/in/diego-janson-860564264)
+  - [linkedin](https://www.linkedin.com/in/degarti)
   - [Email](mailto:outragedline@proton.me)
-- ⚡ Fun fact: I use Archlinux btw
+- ⚡ Fun fact: I like learning new languages to read books in their original versions
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=outragedline&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=degarti&theme=tokyonight)
