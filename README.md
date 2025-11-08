@@ -1,4 +1,4 @@
-## Hi there, I'm Janson Degarti 
+## Hi there, I'm Janson Degartil
 
 ### 💻 Computer Science Student and enthusiast
 <!--
@@ -15,10 +15,10 @@
 - 🌱 I’m currently focused on learning math, computer science, german and italian
 - 💬 Ask me about anything rusty or linux related 🐧
 - 📫 How to reach me:
-  - [Telegram](https://t.me/degarti)
-  - [Twitter](https://x.com/outragedline)
-  - [linkedin](https://www.linkedin.com/in/degarti)
+  - [Telegram](https://t.me/degartil)
+  - [Twitter](https://x.com/degartil)
+  - [linkedin](https://www.linkedin.com/in/degartil)
   - [Email](mailto:outragedline@proton.me)
 - ⚡ Fun fact: I like learning new languages to read books in their original versions
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=degarti&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=degartil&theme=tokyonight)
