@@ -1,24 +1,13 @@
 ## Hi there, I'm Janson Degartil
 
-### 💻 Computer Science Student and enthusiast
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on some cool rust projects 🦀
-- 🌱 I’m currently focused on learning math, computer science, german and italian
-- 💬 Ask me about anything rusty or linux related 🐧
+- 🔭 I’m currently specializing in **Rust** and **low-level systems** 🦀
+- 🌱 I’m currently focused on learning **math**, **CS fundamentals**, and **economic theory**
+- 💬 Ask me about anything **Rust** or **Linux** related 🐧
 - 📫 How to reach me:
   - [Telegram](https://t.me/degartil)
   - [Twitter](https://x.com/degartil)
-  - [linkedin](https://www.linkedin.com/in/degartil)
-  - [Email](mailto:outragedline@proton.me)
-- ⚡ Fun fact: I like learning new languages to read books in their original versions
+  - [LinkedIn](https://www.linkedin.com/in/degartil)
+  - [Email](mailto:degartil@proton.me)
+- ⚡ **Fun fact:** I like reading books in their original languages
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=degartil&theme=tokyonight)
