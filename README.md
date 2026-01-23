@@ -1,7 +1,7 @@
 ## Hi there, I'm Janson Degartil
 
 - 🔭 I’m currently specializing in **Rust** and **low-level systems** 🦀
-- 🌱 I’m currently focused on learning **math**, **CS fundamentals**, and **economic theory**
+- 🌱 I’m currently focused on learning **Math**, **CS fundamentals**, and **economic theory**
 - 💬 Ask me about anything **Rust** or **Linux** related 🐧
 - 📫 How to reach me:
   - [Telegram](https://t.me/degartil)
