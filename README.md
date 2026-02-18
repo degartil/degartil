@@ -6,4 +6,3 @@
   - [Twitter](https://x.com/degartil)
   - [LinkedIn](https://www.linkedin.com/in/degartil)
   - [Email](mailto:degartil@proton.me)
-- ⚡ **Fun fact:** I like reading books in their original languages
