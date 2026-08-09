@@ -5,4 +5,4 @@
   - [Telegram](https://t.me/degartil)
   - [Twitter](https://x.com/degartil)
   - [LinkedIn](https://www.linkedin.com/in/degartil)
-  - [Email](mailto:degartil@proton.me)
+  - [Email](mailto:degartil@gmail.com)
