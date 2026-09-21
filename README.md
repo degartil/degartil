@@ -1,5 +1,5 @@
 - 🔭 I’m currently specializing in **Rust** and **low-level systems** 🦀
-- 🌱 I’m currently focused on learning **Math**, **CS fundamentals**, and **economic theory**
+- 🌱 I’m currently focused on learning **software engineering** and **economics**
 - 💬 Ask me about anything **Rust** or **Linux** related 🐧
 - 📫 How to reach me:
   - [Telegram](https://t.me/degartil)
